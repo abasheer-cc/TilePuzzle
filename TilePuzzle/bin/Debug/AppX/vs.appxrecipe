@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THEBLACKBOX</Machine>
+    <WindowsUser>Bash_2</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82a7ecbc-81ef-47cc-a4a2-e7d6558df87e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>286B8ED85C91450E37E76514C368ECF12958B387467A549F089DC694EF50CD83</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>82a7ecbc-81ef-47cc-a4a2-e7d6558df87e_1.0.0.0_neutral__w7xfcndbtapy4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>82a7ecbc-81ef-47cc-a4a2-e7d6558df87e_w7xfcndbtapy4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>82a7ecbc-81ef-47cc-a4a2-e7d6558df87e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bash_2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-11T03:18:51.934</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.exe">
+      <PackagePath>TilePuzzle.exe</PackagePath>
+      <Modified>2014-12-11T03:18:50.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+      <Modified>2014-12-04T23:06:15.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T23:06:14.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T23:06:14.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T23:06:14.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T23:06:14.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-08T23:02:28.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-11T02:57:03.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.xr.xml">
+      <PackagePath>TilePuzzle.xr.xml</PackagePath>
+      <Modified>2014-12-11T02:23:13.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-11T03:18:50.360</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

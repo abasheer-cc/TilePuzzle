@@ -1,0 +1,111 @@
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\App.xbf
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\MainPage.xbf
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.xr.xml
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.exe
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.pdb
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\resources.pri
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\AppxManifest.xml
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.build.appxrecipe
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.winmd
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.pdb
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.xml
+C:\Brother\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.pri
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.csprojResolveAssemblyReference.cache
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\App.g.i.cs
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\App.g.cs
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\MainPage.g.i.cs
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\MainPage.g.cs
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\XamlTypeInfo.g.cs
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\App.xaml
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\MainPage.xaml
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\App.xbf
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\MainPage.xbf
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\XamlSaveStateFile.xml
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.exe
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.pdb
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\priconfig.xml
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\priconfig.xml.intermediate
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\layout.resfiles
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\layout.resfiles.intermediate
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\resources.resfiles
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\resources.resfiles.intermediate
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\pri.resfiles
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\pri.resfiles.intermediate
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\qualifiers.txt
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\qualifiers.txt.intermediate
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Brother\TilePuzzle\TilePuzzle\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\App.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\MainPage.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.xr.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.exe
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\resources.pri
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\AppxManifest.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.build.appxrecipe
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.winmd
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.pri
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\App.g.i.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\App.g.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\MainPage.g.i.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\MainPage.g.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\App.xaml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\MainPage.xaml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\App.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\MainPage.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.exe
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\priconfig.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\layout.resfiles
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\resources.resfiles
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\pri.resfiles
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\qualifiers.txt
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\App.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\MainPage.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.xr.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.exe
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\resources.pri
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\AppxManifest.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.build.appxrecipe
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.winmd
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\bin\Debug\NotificationsExtensions.pri
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\App.g.i.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\App.g.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\MainPage.g.i.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\MainPage.g.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\App.xaml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\MainPage.xaml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\App.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\MainPage.xbf
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.exe
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.pdb
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\priconfig.xml
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\layout.resfiles
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\resources.resfiles
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\pri.resfiles
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\qualifiers.txt
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bash_2\Documents\Visual Studio 2013\Projects\TilePuzzlePC\TilePuzzle\TilePuzzle\obj\Debug\ProjectArchitectures.txt
